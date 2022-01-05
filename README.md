@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChhailengTim
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Backend Developer
 - 🌱 I’m currently learning c++,python,css,html,javascript
 - 💞️ I’m looking to collaborate on RUPP
 - 📫 How to reach me archeviment.
