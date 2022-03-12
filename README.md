@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChhailengTim
 - 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning c++,python,css,html,javascript,dart,flutter
+- 🌱 I’m currently learning c++,python,css,html,dart,flutter
 - 💞️ I’m looking to collaborate on RUPP
 - 📫 How to reach me archeviment.
 
