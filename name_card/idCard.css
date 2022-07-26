@@ -1,18 +1,60 @@
 *{
     margin: 0px;
-    padding: 0px;    
-}
-body{
-    display: flex;
-    justify-content: center;
-    height: 100vh;
-    align-items: center;
+    padding: 0px;  
+    box-sizing: border-box;  
 }
 .container{
+    width: 100%;
+    height: 100vh;
+    padding: 2rem;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    background-color: rgb(230, 230, 230);
 }
-img{
-    height: 500px;
-    border-radius: 20px;
-    padding: 10px;
+.container .front, .container .back{
+    position: relative;
+    width: 350px;
+    border-radius: .8rem;
+    overflow: hidden;
+    box-shadow: .5rem 1rem 1rem rgba(0,0,0,0.1);
+}
+.front img ,.back img{
+    width: 100%;
+}
+
+.front .avatar{
+    position: absolute;
+    top: 18.6%;
+    left: 50%;
+    transform: translateX(-47%);
+    width: 43%;
+    height: 26%;
+}
+.front form{
+    position: absolute;
+    left: 29.8%;
+    bottom: 16.9%;
+    /* background-color: blue; */
+    width: 65%;
+    height: 36.4%;
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+}
+.front form input{
+    width: 100%;
+    border: 0;
+    padding: 9px 9px;
+    background-color: transparent;
+    outline-color: transparent;
+}
+
+
+@media (max-width: 1023px){
+    .container{
+        height: auto;
+        flex-direction: column;
+    }
 }
