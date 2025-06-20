@@ -2,7 +2,7 @@
 - 👀 I’m passionate about becoming a Python Developer
 - 🌱 Currently learning Data Analysis with Python
 - 🤝 Open to collaboration, especially with students or teams at RUPP
-- 📊 Check out my Portfolio: chhailengtim.github.io/chhaileng-portfolio
+- 📊 Check out my Portfolio: [chhailengtim.github.io/chhaileng-portfolio/]
 
 <!---
 ChhailengTim/ChhailengTim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
