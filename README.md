@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ChhailengTim
-- 👀 I’m interested in Front-end Developer
-- 🌱 I’m currently learning c,c++,python,dart,flutter
-- 💞️ I’m looking to collaborate on RUPP
-- 📫 How to reach me archeviment.
-- GitHub Stats: [https://chhailengtim.github.io/chhaileng-portfolio/]
+👋 Hi, I’m @ChhailengTim
+👀 I’m passionate about becoming a Python Developer
+🌱 Currently learning Data Analysis with Python
+🤝 Open to collaboration, especially with students or teams at RUPP
+📊 Check out my Portfolio: chhailengtim.github.io/chhaileng-portfolio
 
 <!---
 ChhailengTim/ChhailengTim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
